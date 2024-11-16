@@ -1,0 +1,2 @@
+# Riteshs.js
+code js
